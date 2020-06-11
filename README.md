@@ -1,14 +1,27 @@
-<h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="assets/logo.svg" width="250px" />
-</h1>
+<p>
+	<h3 align="center">NextLevelWeek 1.0</h3>
+	<h6 align="center">:rocket: Rocketseat :rocket:</h6>
+	<h1 align="center">
+	    <img alt="NextLevelWeek" title="#NextLevelWeek" src="assets/logo.svg" width="200px" />
+	</h1>
+</p>
 
-<h3 align="center">
- 🚀🚀  Rocketseat 🚀🚀
-</h3>
 
-<h4 align="center"> 
-	:rocket: NextLevelWeek 1.0  In progress.. :rocket:
-</h4>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jecAmorim/Next-Level-Week-1?color=%2304D361">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jecAmorim/Next-Level-Week-1">
+
+  <a href="https://github.com/jecAmorim/Next-Level-Week-1/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jecAmorim/Next-Level-Week-1">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <a href="https://github.com/jecAmorim/Next-Level-Week-1/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/jecAmorim/Next-Level-Week-1?style=social">
+  </a>
+</p>
+
 
 <p align="center">
   <a href="#nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
