@@ -19,20 +19,14 @@
     <img alt="GitHub" src="">
   </a>
 
-  <img alt="License" src="">
-   <a href="">
-    <img alt="" src="">
-  </a>
 </p>
 
 <p align="center">
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-How-to-install-API">How to install API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-How-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :information_source: What's Next Level Week?
@@ -62,7 +56,7 @@ This project was developed with the following technologies:
 - [Expo][expo]
 
 
-### How to install API..
+### How to install API
 ```bash
 # Clone this repository
 $ git clone https://github.com/jecAmorim/Next-Level-Week-1
@@ -102,12 +96,10 @@ $ npm run dev
 
 Made by Jeciane Amorim :wave: [Get in touch!](https://www.linkedin.com/in/francisca-jeciane-amorim-da-silva-056513184/)
 
-[nodejs]: https://nodejs.org/
-[typescript]: https://www.typescriptlang.org/
-[expo]: https://expo.io/
+[nodejs]: https://nodejs.org/en/docs/
+[typescript]: https://www.typescriptlang.org/index.html
+[expo]: https://docs.expo.io/
 [reactjs]: https://reactjs.org
+[rn]: https://reactnative.dev/
 [yarn]: https://yarnpkg.com/
-[vs]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-[prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+[npm]: https://www.npmjs.com/
