@@ -1,8 +1,8 @@
 <h2 align="center" color="#7159c1">
-	NextLevelWeek 1.0
+	NextLevelWeek 1.0 
+	<br></br>
+	<img alt="NextLevelWeek" title="#NextLevelWeek" src="assets/logo.svg" width="200px" />
 </h2>
-<img alt="NextLevelWeek" title="#NextLevelWeek" src="assets/logo.svg" width="200px" />
-
 
 
 <p align="center">
@@ -30,8 +30,12 @@
 </p>
 
 <h2 id="nlw"> What's Next Level Week? </h2>
+<p>Next Level Week is an online and completely free event that offers a week of intensive training in the development of a web application.<br></br>
+The event is provided by Rocketseat and has the clear objective of collaborating in the evolution of our career as a dev and taking us to the next level with focus, practice and group work.
+</p>
 
 <h2 id="Project">Project</h2>
+<p>The proposal for the application chosen for this training was an application called #Ecoleta, it was inspired by the week of the environment and aims to help people find points of collection of specific types of waste, as well as register new points, encouraging recycling!</p>
 
 <h1 align="center">
     <img alt="Example" title="Example" src="assets/background2.jpeg" width="1000px" />
