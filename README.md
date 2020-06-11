@@ -37,12 +37,12 @@ The event is provided by Rocketseat and has the clear objective of collaborating
 <h2 id="Project">Project</h2>
 <p>The proposal for the application chosen for this training was an application called #Ecoleta, it was inspired by the week of the environment and aims to help people find points of collection of specific types of waste, as well as register new points, encouraging recycling!</p>
 
-<h1 align="center">
+<p align="center">
     <img alt="Example" title="Example" src="assets/background2.jpeg" width="1000px" />
-</h1>
+</p>
 
 
-## Technologies
+<h2>Technologies</h2>
 
 This project was developed with the following technologies:
 
@@ -53,7 +53,7 @@ This project was developed with the following technologies:
 - [Expo][expo]
 
 
-### How to install API
+<h2>How to install API</h2>
 ```bash
 # Clone this repository
 $ git clone https://github.com/jecAmorim/Next-Level-Week-1
@@ -73,13 +73,25 @@ $ npm run dev
 
 
 # Install dependencies of front-end
-# access the project root folder
+## access the project root folder
 $ cd web
 
+##Install dependencies
 $ yarn install
 
 # Run
-$ npm run dev
+$ yarn start
+
+
+# Install dependencies of mobile
+## access the project root folder
+$ cd mobile
+
+##Install dependencies
+$ yarn install
+
+# Run
+$ yarn start
 ```
 
 ## How to contribute
