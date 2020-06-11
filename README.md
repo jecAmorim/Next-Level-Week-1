@@ -1,10 +1,8 @@
-<p>
-	<h3 align="center">NextLevelWeek 1.0</h3>
-	<h6 align="center">:rocket: Rocketseat :rocket:</h6>
-	<h1 align="center">
-	    <img alt="NextLevelWeek" title="#NextLevelWeek" src="assets/logo.svg" width="200px" />
-	</h1>
-</p>
+<h2 align="center" color="#7159c1">
+	NextLevelWeek 1.0
+</h2>
+<img alt="NextLevelWeek" title="#NextLevelWeek" src="assets/logo.svg" width="200px" />
+
 
 
 <p align="center">
