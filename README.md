@@ -1,23 +1,23 @@
 # Next-Level-Week-1
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="web/src/assets/logo.svg" width="250px" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="assets/logo.svg" width="250px" />
+</h1>
+
+<h1 align="center">
+ 🚀🚀  Rocketseat 🚀🚀
 </h1>
 
 <h4 align="center"> 
-	:construction: NextLevelWeek 1.0 🚀 In progress.. :construction:
+	:rocket: NextLevelWeek 1.0  In progress.. :rocket:
 </h4>
+
 <p align="center">
-  <img alt="GitHub language count" src="">
 
-  <img alt="Repository size" src="">
-	
-  <a href="https://www.linkedin.com/in/francisca-jeciane-amorim-da-silva-056513184/">
-    <img alt="Made by Francisca Jeciane Amorim" src="">
-  </a>
-
-  <a href="https://github.com/jecAmorim?tab=repositories">
-    <img alt="GitHub" src="">
-  </a>
+![GitHub Starts](https://img.shields.io/github/stars/jecAmorim/next-level-week1?color=%237159C1&style=for-the-badge)
+![GitHub Languages](https://img.shields.io/github/languages/count/jecAmorim/next-level-week1?color=%237159c1&style=for-the-badge)
+![GitHub Top Language](https://img.shields.io/github/languages/top/jecAmorim/next-level-week1?color=7159c1&style=for-the-badge)
+![GitHub Size](https://img.shields.io/github/repo-size/jecAmorim/next-level-week1?color=%237159c1&style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/jecAmorim/next-level-week1?color=%237159c1&style=for-the-badge)
 
 </p>
 
@@ -41,7 +41,7 @@ Ecoleta is a project developed based on international environment week.
 That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src=".github/capa.svg" width="500px" />
+    <img alt="Example" title="Example" src="assets/background2.png" width="500px" />
 </h1>
 
 
