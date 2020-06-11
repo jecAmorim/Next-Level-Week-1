@@ -23,7 +23,7 @@
 <h2 id="Project">Project</h2>
 
 <h1 align="center">
-    <img alt="Example" title="Example" src="assets/background2.jpeg" width="500px" />
+    <img alt="Example" title="Example" src="assets/background2.jpeg" width="800px" />
 </h1>
 
 
