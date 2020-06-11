@@ -41,7 +41,7 @@ NLW is a practical week with lots of code, challenges, networking and a single o
 Through our method you will learn new tools, learn about new technologies and discover hacks that will boost your career.
 An online and completely free event that will help you take the next step in your evolution as a dev.
 
-## 💻 Project
+## Project
 
 Ecoleta is a project developed based on international environment week. 
 That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
@@ -51,7 +51,7 @@ That aims to connect people to companies that collect specific waste such as lig
 </h1>
 
 
-## :rocket: Technologies
+## Technologies
 
 This project was developed with the following technologies:
 
@@ -61,43 +61,43 @@ This project was developed with the following technologies:
 - [React Native][rn]
 - [Expo][expo]
 
-## 🔖 Layout
 
-To access the layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
-
-## :information_source: How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
-
-From your command line:
-
-### Install API In progress.. :construction:
+### How to install API..
 ```bash
 # Clone this repository
 $ git clone https://github.com/jecAmorim/Next-Level-Week-1
 
 # Go into the repository
-$ cd mobile
+$ cd Next-Level-Week-1
 
-# Install dependencies
+# Install dependencies of server
+$ cd server
+
 $ npm install
+or
+$ yarn install
+
+# Run
+$ npm run dev
+
+
+# Install dependencies of front-end
+# access the project root folder
+$ cd web
+
+$ yarn install
 
 # Run
 $ npm run dev
 ```
 
-## 🤔 How to contribute
+## How to contribute
 
 - Make a fork;
 - Create a branck with your feature: `git checkout -b my-feature`;
 - Commit changes: `git commit -m 'feat: My new feature'`;
 - Make a push to your branch: `git push origin my-feature`.
-
-After merging your receipt request to done, you can delete a branch from yours.
-
-## :memo: License
-
-This project is under the MIT license. See the [LICENSE]() for details.
+- Create a new pull request.
 
 
 Made by Jeciane Amorim :wave: [Get in touch!](https://www.linkedin.com/in/francisca-jeciane-amorim-da-silva-056513184/)
