@@ -18,14 +18,14 @@
   <a href="#-How-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## :information_source: What's Next Level Week?
+## What's Next Level Week?
 
 
 ## Project
 
 
 <h1 align="center">
-    <img alt="Example" title="Example" src="assets/background2.jpeg" width="300px" />
+    <img alt="Example" title="Example" src="assets/background2.jpeg" width="500px" />
 </h1>
 
 
