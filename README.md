@@ -34,7 +34,7 @@
 The event is provided by Rocketseat and has the clear objective of collaborating in the evolution of our career as a dev and taking us to the next level with focus, practice and group work.
 </p>
 
-<h2 id="Project">Project</h2>
+## Project
 <p>The proposal for the application chosen for this training was an application called #Ecoleta, it was inspired by the week of the environment and aims to help people find points of collection of specific types of waste, as well as register new points, encouraging recycling!</p>
 
 <p align="center">
@@ -42,7 +42,7 @@ The event is provided by Rocketseat and has the clear objective of collaborating
 </p>
 
 
-<h2>Technologies</h2>
+## Technologies
 
 This project was developed with the following technologies:
 
@@ -53,7 +53,7 @@ This project was developed with the following technologies:
 - [Expo][expo]
 
 
-<h2>How to install API</h2>
+## How to install API
 ```bash
 # Clone this repository
 $ git clone https://github.com/jecAmorim/Next-Level-Week-1
@@ -73,10 +73,10 @@ $ npm run dev
 
 
 # Install dependencies of front-end
-## access the project root folder
+# access the project root folder
 $ cd web
 
-##Install dependencies
+#Install dependencies
 $ yarn install
 
 # Run
@@ -84,10 +84,10 @@ $ yarn start
 
 
 # Install dependencies of mobile
-## access the project root folder
+# access the project root folder
 $ cd mobile
 
-##Install dependencies
+#Install dependencies
 $ yarn install
 
 # Run
@@ -103,7 +103,7 @@ $ yarn start
 - Create a new pull request.
 
 
-Made by Jeciane Amorim :wave: [Get in touch!](https://www.linkedin.com/in/francisca-jeciane-amorim-da-silva-056513184/)
+Made by Jeciane Amorim [Get in touch!](https://www.linkedin.com/in/francisca-jeciane-amorim-da-silva-056513184/)
 
 [nodejs]: https://nodejs.org/en/docs/
 [typescript]: https://www.typescriptlang.org/index.html
