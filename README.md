@@ -1,25 +1,14 @@
-# Next-Level-Week-1
 <h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="assets/logo.svg" width="250px" />
 </h1>
 
-<h1 align="center">
+<h3 align="center">
  🚀🚀  Rocketseat 🚀🚀
-</h1>
+</h3>
 
 <h4 align="center"> 
 	:rocket: NextLevelWeek 1.0  In progress.. :rocket:
 </h4>
-
-<p align="center">
-
-![GitHub Starts](https://img.shields.io/github/stars/jecAmorim/next-level-week1?color=%237159C1&style=for-the-badge)
-![GitHub Languages](https://img.shields.io/github/languages/count/jecAmorim/next-level-week1?color=%237159c1&style=for-the-badge)
-![GitHub Top Language](https://img.shields.io/github/languages/top/jecAmorim/next-level-week1?color=7159c1&style=for-the-badge)
-![GitHub Size](https://img.shields.io/github/repo-size/jecAmorim/next-level-week1?color=%237159c1&style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/jecAmorim/next-level-week1?color=%237159c1&style=for-the-badge)
-
-</p>
 
 <p align="center">
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -31,14 +20,9 @@
 
 ## :information_source: What's Next Level Week?
 
-NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
-Through our method you will learn new tools, learn about new technologies and discover hacks that will boost your career.
-An online and completely free event that will help you take the next step in your evolution as a dev.
 
 ## Project
 
-Ecoleta is a project developed based on international environment week. 
-That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
 
 <h1 align="center">
     <img alt="Example" title="Example" src="assets/background2.jpeg" width="300px" />
