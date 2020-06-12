@@ -1,7 +1,7 @@
 <h2 align="center" color="#7159c1">
 	NextLevelWeek 1.0 
 	<br></br>
-	<img alt="NextLevelWeek" title="#NextLevelWeek" src="assets/logo.svg" width="200px" />
+	<img alt="NextLevelWeek" title="#NextLevelWeek" src="assets/logo.svg" width="250px" />
 </h2>
 
 
@@ -26,7 +26,7 @@
   <a href="#Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#How-to-install-API">How to install API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#How-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#How-to-contribute">How to contribute</a>
 </p>
 
 <h2 id="nlw"> What's Next Level Week? </h2>
